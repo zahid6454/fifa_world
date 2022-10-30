@@ -1,0 +1,16 @@
+[26-Jun-2021 17:25:52 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/pointerr/fifaworld.pointerror.com/transfer.php:983
+Stack trace:
+#0 {main}
+  thrown in /home/pointerr/fifaworld.pointerror.com/transfer.php on line 983
+[26-Jun-2021 17:27:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/pointerr/fifaworld.pointerror.com/transfer.php:983
+Stack trace:
+#0 {main}
+  thrown in /home/pointerr/fifaworld.pointerror.com/transfer.php on line 983
+[15-Oct-2021 14:36:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/pointerr/fifaworld.pointerror.com/transfer.php:983
+Stack trace:
+#0 {main}
+  thrown in /home/pointerr/fifaworld.pointerror.com/transfer.php on line 983
+[15-Oct-2021 14:37:08 UTC] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/pointerr/fifaworld.pointerror.com/transfer.php:983
+Stack trace:
+#0 {main}
+  thrown in /home/pointerr/fifaworld.pointerror.com/transfer.php on line 983
